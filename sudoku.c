@@ -4,7 +4,7 @@
 
 int main()
 {
-    FILE * fp1 = fopen("formula", "w");//출력물
+    FILE * fp1 = fopen("formula", "w");//we will print this for z3
     char buf[128];
     char input[9][9]; //std input
     int c;
