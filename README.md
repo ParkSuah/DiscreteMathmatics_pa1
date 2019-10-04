@@ -1,4 +1,4 @@
-# DiscreteMathmatics_pa1
+# DiscreteMathmatics_pa1 (Group 6)
 Solve Puzzles with SMT Solver
 ==================================
 We used SMT-solver Z3 to solve these puzzles. When we write program for each of the following three puzzles, that programs automatically finds solutions using the Z3 SMT solver.
@@ -190,9 +190,9 @@ Three files were grouped into a single makefile.
 ***
     
 # Group member
- 21400636 Lim Yechan
- 21500388 An Jane
- 21500706 Jee Sungmin
- 21600062 Kim Miso
- 21800147 Kim Youyoung
- 21800294 Park Suah
+21400636 Lim Yechan
+21500388 An Jane
+21500706 Jee Sungmin
+21600062 Kim Miso
+21800147 Kim Youyoung
+21800294 Park Suah
