@@ -25,4 +25,4 @@ echo "3) Numbrix"
 echo "________________________"
 
 gcc numbrix.c -o numbrix
-./numbrix input3.txt
+./numbrix input3
