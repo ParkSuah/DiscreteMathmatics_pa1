@@ -1,10 +1,12 @@
 # DiscreteMathmatics_pa1
-Puzzle Solvers Using SMT-solver
+Solve Puzzles with SMT Solver
 ==================================
-#We will use SMT-solver Z3
-Puzzle1. Sudoku
----------------
-Puzzle2. Kakurasu
+We used SMT-solver Z3 to solve these puzzles. When we write program for each of the following three puzzles, that programs automatically finds solutions using the Z3 SMT solver.
+1. Puzzle1. Sudoku
+
+2. Puzzle2. Kakurasu
 ----------------
-Puzzle3. 3-In-A-Row
+It is a program that makes the sum of cells around clue number and those around clue number become the value of clue number.
+
+3. Puzzle3. 3-In-A-Row
 -----------------
