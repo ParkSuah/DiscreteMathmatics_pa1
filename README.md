@@ -1,7 +1,7 @@
 # DiscreteMathmatics_pa1 (Group 6)
 Solve Puzzles with SMT Solver
 ==================================
-We used SMT-solver Z3 to solve these puzzles. When we write program for each of the following three puzzles, that programs automatically finds solutions using the Z3 SMT solver.
+We used SMT-solver Z3 to solve these puzzles. When we write program for each of the following three puzzles, that programs automatically find solutions using the Z3 SMT solver.
 # 1. Puzzle1. Sudoku
  In Sudoku*, there is a variant of Sudoku which has a 9x9 grid with nine 3x3 sub-grids, each cell that has a number in 1 to 9 and certain cells that contain asterisk sign ( * ) with unique one value in 1 to 9. 
 ##### -Input : The input should be a file written in 9x9 grid and consist of numbers between 1 to 9, sign ‘ ? ’ and ‘ * ’. 
