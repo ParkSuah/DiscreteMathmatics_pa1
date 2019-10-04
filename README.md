@@ -191,8 +191,13 @@ Three files were grouped into a single makefile.
     
 # Group member
 21400636 Lim Yechan
+
 21500388 An Jane
+
 21500706 Jee Sungmin
+
 21600062 Kim Miso
+
 21800147 Kim Youyoung
+
 21800294 Park Suah
