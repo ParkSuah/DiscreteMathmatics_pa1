@@ -39,7 +39,7 @@ We used SMT-solver Z3 to solve these puzzles. When we write program for each of 
 * ? : no clue number
 * 0-9 : a clue number
 
-Enter values one by one on the keyboard and press “ctrl+D” when you are done.
+Enter values one by one on the keyboard and press enter at the end of input and press “ctrl+D” when you are done.
 ###### EX) 
     gcc fill_a_Pix.c – fillaPix => build
     ./fillaPix
