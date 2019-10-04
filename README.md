@@ -113,10 +113,10 @@ Enter values one by one on the keyboard and press “ctrl+D” when you are done
 Three files were grouped into a single makefile.
 
 * Execute three programs (sudoku, fill a pix, numbrix)
-    $ make exe
+   : $ make exe
     
 * remove the object files and formulas
-    $ make clean
+   : $ make clean
     
 ##### Ex)
     $ make exe
