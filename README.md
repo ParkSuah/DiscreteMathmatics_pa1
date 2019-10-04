@@ -15,8 +15,8 @@ We used SMT-solver Z3 to solve these puzzles. When we write program for each of 
 ###### Ex) 
     gcc sudoku.c -o sudoku
     ./sudoku
-    Please enter a file name : (enter the filename.txt)
-###### inputfile.txt example
+    Please enter a file name : (enter the filename)
+###### inputfile example
     ? 2 ? 5 ? * ? 9 ?
     8 ? ? 2 ? 3 ? ? 6
     ? 3 ? ? 6 ? * 7 ?
@@ -57,7 +57,7 @@ Enter values one by one on the keyboard and press “ctrl+D” when you are done
 
 ###### Ex) 
     gcc numbrix.c -o numbrix
-    ./numbrix input.txt
+    ./numbrix input
 ###### inputfile.txt example
     ?   ?   ?   ?   ?   ?
     ?   ?  20  13   ?   ?
