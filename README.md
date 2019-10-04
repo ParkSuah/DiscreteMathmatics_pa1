@@ -46,6 +46,7 @@ Enter values one by one on the keyboard and press enter at the end of input and 
     ? ? ? 3 ? 
     2 ? ? ? ?
     ? ? 4 ? ?
+    
 
 ##### -Output : Output is printed in black(1) or white(0) and if there is no solution then print out “No solution”. If there are multiple solution, print out a maximum of five solutions.
 
